@@ -1,0 +1,19 @@
+{
+  "name": "calculos",
+  "version": "1.0.0",
+  "description": "Cuentas varias",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ariel",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "moment": "^2.29.4",
+    "momentjs": "^2.0.0"
+  },
+  "devDependencies": {
+    "bootstrap": "^5.3.1"
+  }
+}

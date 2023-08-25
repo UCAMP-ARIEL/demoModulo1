@@ -1,0 +1,22 @@
+section {
+	width: 200px;
+	height: 200px;
+	border: 2px dotted blue;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+#textContent {
+	color: red;
+}
+
+.titulo {
+	text-decoration: underline;
+	color: green;
+}
+
+section p {
+	font-size: 10px;
+}
